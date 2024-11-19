@@ -1,0 +1,477 @@
+[2024-11-18 05:33:16] local.INFO: Locale in session: id  
+[2024-11-18 05:33:18] local.INFO: Locale in session: id  
+[2024-11-18 05:33:37] local.INFO: Locale in session: id  
+[2024-11-18 05:33:39] local.INFO: Locale in session: id         
+[2024-11-18 05:34:19] local.INFO: Locale in session: id  
+[2024-11-18 05:34:29] local.INFO: Locale in session: id  
+[2024-11-18 05:34:46] local.INFO: Locale in session: id  
+[2024-11-18 05:34:48] local.INFO: Locale in session: id  
+[2024-11-18 05:34:56] local.INFO: Locale in session: id  
+[2024-11-18 05:35:03] local.INFO: Locale in session: id  
+[2024-11-18 05:35:04] local.INFO: Locale in session: id  
+[2024-11-18 05:43:11] local.INFO: Locale in session: id  
+[2024-11-18 05:43:20] local.INFO: Locale in session: id  
+[2024-11-18 05:43:22] local.INFO: Locale in session: id  
+[2024-11-18 05:43:28] local.INFO: Locale in session: id  
+[2024-11-18 05:43:46] local.INFO: Locale in session: id  
+[2024-11-18 05:43:58] local.INFO: Locale in session: id  
+[2024-11-18 05:43:59] local.INFO: Locale in session: id  
+[2024-11-18 05:44:08] local.INFO: Locale in session: id  
+[2024-11-18 05:44:14] local.INFO: Locale in session: id  
+[2024-11-18 05:44:15] local.INFO: Locale in session: id  
+[2024-11-18 05:44:32] local.INFO: Locale in session: id  
+[2024-11-18 05:44:33] local.INFO: Locale in session: id  
+[2024-11-18 05:44:38] local.INFO: Locale in session: id  
+[2024-11-18 05:44:39] local.INFO: Locale in session: id  
+[2024-11-18 06:29:05] local.INFO: Locale in session: id  
+[2024-11-18 06:29:25] local.INFO: Locale in session: id  
+[2024-11-18 06:29:30] local.INFO: Locale in session: id  
+[2024-11-18 06:29:47] local.INFO: Locale in session: id  
+[2024-11-18 06:30:03] local.INFO: Locale in session: id  
+[2024-11-18 06:30:04] local.INFO: Locale in session: id  
+[2024-11-18 06:30:10] local.INFO: Locale in session: id  
+[2024-11-18 06:30:11] local.INFO: Locale in session: id  
+[2024-11-18 06:30:15] local.INFO: Locale in session: id  
+[2024-11-18 06:30:33] local.INFO: Locale in session: id  
+[2024-11-18 06:30:33] local.INFO: Locale in session: id  
+[2024-11-18 06:31:04] local.INFO: Locale in session: id  
+[2024-11-18 06:31:04] local.INFO: Locale in session: id  
+[2024-11-18 06:31:08] local.INFO: Locale in session: id  
+[2024-11-18 06:31:15] local.INFO: Locale in session: id  
+[2024-11-18 06:31:16] local.INFO: Locale in session: id  
+[2024-11-18 06:31:21] local.INFO: Locale in session: id  
+[2024-11-18 06:31:22] local.INFO: Locale in session: id  
+[2024-11-18 06:31:26] local.INFO: Locale in session: id  
+[2024-11-18 06:31:36] local.INFO: Locale in session: id  
+[2024-11-18 06:31:37] local.INFO: Locale in session: id  
+[2024-11-18 06:31:44] local.INFO: Locale in session: id  
+[2024-11-18 06:31:45] local.INFO: Locale in session: id  
+[2024-11-18 06:34:13] local.INFO: Locale in session: id  
+[2024-11-18 06:34:15] local.INFO: Locale in session: id  
+[2024-11-18 06:34:35] local.INFO: Locale in session: id  
+[2024-11-18 06:46:10] local.INFO: Locale in session: id  
+[2024-11-18 06:46:21] local.INFO: Locale in session: id  
+[2024-11-18 06:46:31] local.INFO: Locale in session: id  
+[2024-11-18 06:46:58] local.INFO: Locale in session: id  
+[2024-11-18 06:47:00] local.INFO: Locale in session: id  
+[2024-11-18 06:47:11] local.INFO: Locale in session: id  
+[2024-11-18 06:47:16] local.INFO: Locale in session: id  
+[2024-11-18 06:47:45] local.INFO: Locale in session: id  
+[2024-11-18 06:47:46] local.INFO: Locale in session: id  
+[2024-11-18 06:47:54] local.INFO: Locale in session: id  
+[2024-11-18 06:48:05] local.INFO: Locale in session: id  
+[2024-11-18 06:48:05] local.INFO: Locale in session: id  
+[2024-11-18 06:48:11] local.INFO: Locale in session: id  
+[2024-11-18 06:48:12] local.INFO: Locale in session: id  
+[2024-11-18 06:48:24] local.INFO: Locale in session: id  
+[2024-11-18 06:48:24] local.INFO: Locale in session: id  
+[2024-11-18 07:21:35] local.INFO: Locale in session: id  
+[2024-11-19 03:18:00] local.INFO: Locale in session: id  
+[2024-11-19 10:17:39] local.INFO: Locale in session: id  
+[2024-11-19 10:17:58] local.ERROR: Unable to prepare route [admin/produk] for serialization. Another route has already been assigned name [produk.index]. {"exception":"[object] (LogicException(code: 0): Unable to prepare route [admin/produk] for serialization. Another route has already been assigned name [produk.index]. at C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\AbstractRouteCollection.php:247)
+[stacktrace]
+#0 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\AbstractRouteCollection.php(208): Illuminate\\Routing\\AbstractRouteCollection->addToSymfonyRoutesCollection(Object(Symfony\\Component\\Routing\\RouteCollection), Object(Illuminate\\Routing\\Route))
+#1 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteCollection.php(247): Illuminate\\Routing\\AbstractRouteCollection->toSymfonyRouteCollection()
+#2 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\AbstractRouteCollection.php(192): Illuminate\\Routing\\RouteCollection->toSymfonyRouteCollection()
+#3 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\AbstractRouteCollection.php(163): Illuminate\\Routing\\AbstractRouteCollection->dumper()
+#4 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\RouteCacheCommand.php(109): Illuminate\\Routing\\AbstractRouteCollection->compile()
+#5 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\RouteCacheCommand.php(68): Illuminate\\Foundation\\Console\\RouteCacheCommand->buildRouteCacheFile(Object(Illuminate\\Routing\\RouteCollection))
+#6 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(36): Illuminate\\Foundation\\Console\\RouteCacheCommand->handle()
+#7 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Util.php(43): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#8 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(95): Illuminate\\Container\\Util::unwrapIfClosure(Object(Closure))
+#9 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(35): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#10 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(690): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#11 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Command.php(213): Illuminate\\Container\\Container->call(Array)
+#12 C:\\laragon\\www\\bccrafts\\vendor\\symfony\\console\\Command\\Command.php(279): Illuminate\\Console\\Command->execute(Object(Symfony\\Component\\Console\\Input\\ArrayInput), Object(Illuminate\\Console\\OutputStyle))
+#13 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Command.php(182): Symfony\\Component\\Console\\Command\\Command->run(Object(Symfony\\Component\\Console\\Input\\ArrayInput), Object(Illuminate\\Console\\OutputStyle))
+#14 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Concerns\\CallsCommands.php(67): Illuminate\\Console\\Command->run(Object(Symfony\\Component\\Console\\Input\\ArrayInput), Object(Symfony\\Component\\Console\\Output\\NullOutput))
+#15 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Concerns\\CallsCommands.php(40): Illuminate\\Console\\Command->runCommand('route:cache', Array, Object(Symfony\\Component\\Console\\Output\\NullOutput))
+#16 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Concerns\\CallsCommands.php(52): Illuminate\\Console\\Command->callSilent('route:cache', Array)
+#17 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\OptimizeCommand.php(36): Illuminate\\Console\\Command->callSilently('route:cache')
+#18 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\View\\Components\\Task.php(40): Illuminate\\Foundation\\Console\\OptimizeCommand->Illuminate\\Foundation\\Console\\{closure}()
+#19 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\View\\Components\\Factory.php(60): Illuminate\\Console\\View\\Components\\Task->render('routes', Object(Closure))
+#20 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\OptimizeCommand.php(36): Illuminate\\Console\\View\\Components\\Factory->__call('task', Array)
+#21 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(36): Illuminate\\Foundation\\Console\\OptimizeCommand->handle()
+#22 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Util.php(43): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#23 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(95): Illuminate\\Container\\Util::unwrapIfClosure(Object(Closure))
+#24 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(35): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#25 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(690): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#26 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Command.php(213): Illuminate\\Container\\Container->call(Array)
+#27 C:\\laragon\\www\\bccrafts\\vendor\\symfony\\console\\Command\\Command.php(279): Illuminate\\Console\\Command->execute(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Illuminate\\Console\\OutputStyle))
+#28 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Command.php(182): Symfony\\Component\\Console\\Command\\Command->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Illuminate\\Console\\OutputStyle))
+#29 C:\\laragon\\www\\bccrafts\\vendor\\symfony\\console\\Application.php(1047): Illuminate\\Console\\Command->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#30 C:\\laragon\\www\\bccrafts\\vendor\\symfony\\console\\Application.php(316): Symfony\\Component\\Console\\Application->doRunCommand(Object(Illuminate\\Foundation\\Console\\OptimizeCommand), Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#31 C:\\laragon\\www\\bccrafts\\vendor\\symfony\\console\\Application.php(167): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#32 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(197): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#33 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(1203): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#34 C:\\laragon\\www\\bccrafts\\artisan(13): Illuminate\\Foundation\\Application->handleCommand(Object(Symfony\\Component\\Console\\Input\\ArgvInput))
+#35 {main}
+"} 
+[2024-11-19 10:18:59] local.INFO: Locale in session: id  
+[2024-11-19 10:19:48] local.INFO: Locale in session: id  
+[2024-11-19 10:20:48] local.INFO: Locale in session: id  
+[2024-11-19 10:20:50] local.INFO: Locale in session: id  
+[2024-11-19 10:20:51] local.INFO: Locale in session: id  
+[2024-11-19 10:20:53] local.INFO: Locale in session: id  
+[2024-11-19 10:22:52] local.INFO: Locale in session: id  
+[2024-11-19 10:23:40] local.INFO: Locale in session: id  
+[2024-11-19 10:23:41] local.INFO: Locale in session: id  
+[2024-11-19 10:24:35] local.INFO: Locale in session: id  
+[2024-11-19 10:24:37] local.INFO: Locale in session: id  
+[2024-11-19 10:24:38] local.INFO: Locale in session: id  
+[2024-11-19 10:24:40] local.INFO: Locale in session: id  
+[2024-11-19 10:24:48] local.INFO: Locale in session: id  
+[2024-11-19 10:24:51] local.INFO: Locale in session: id  
+[2024-11-19 10:25:06] local.INFO: Locale in session: id  
+[2024-11-19 10:25:12] local.INFO: Locale in session: id  
+[2024-11-19 10:25:24] local.INFO: Locale in session: id  
+[2024-11-19 10:25:25] local.INFO: Locale in session: id  
+[2024-11-19 10:25:26] local.INFO: Locale in session: id  
+[2024-11-19 10:25:27] local.INFO: Locale in session: id  
+[2024-11-19 10:25:28] local.INFO: Locale in session: id  
+[2024-11-19 10:25:28] local.INFO: Locale in session: id  
+[2024-11-19 10:25:29] local.INFO: Locale in session: id  
+[2024-11-19 10:25:29] local.INFO: Locale in session: id  
+[2024-11-19 10:25:30] local.INFO: Locale in session: id  
+[2024-11-19 10:25:30] local.INFO: Locale in session: id  
+[2024-11-19 10:25:31] local.INFO: Locale in session: id  
+[2024-11-19 10:25:31] local.INFO: Locale in session: id  
+[2024-11-19 10:25:32] local.INFO: Locale in session: id  
+[2024-11-19 10:25:32] local.INFO: Locale in session: id  
+[2024-11-19 10:25:33] local.INFO: Locale in session: id  
+[2024-11-19 10:25:33] local.INFO: Locale in session: id  
+[2024-11-19 10:25:34] local.INFO: Locale in session: id  
+[2024-11-19 10:25:34] local.INFO: Locale in session: id  
+[2024-11-19 10:25:35] local.INFO: Locale in session: id  
+[2024-11-19 10:25:35] local.INFO: Locale in session: id  
+[2024-11-19 10:25:36] local.INFO: Locale in session: id  
+[2024-11-19 10:25:36] local.INFO: Locale in session: id  
+[2024-11-19 10:25:37] local.INFO: Locale in session: id  
+[2024-11-19 10:25:38] local.INFO: Locale in session: id  
+[2024-11-19 10:25:38] local.INFO: Locale in session: id  
+[2024-11-19 10:25:40] local.INFO: Locale in session: id  
+[2024-11-19 10:25:41] local.INFO: Locale in session: id  
+[2024-11-19 10:25:44] local.INFO: Locale in session: id  
+[2024-11-19 10:25:45] local.INFO: Locale in session: id  
+[2024-11-19 10:26:34] local.INFO: Locale in session: id  
+[2024-11-19 10:26:38] local.INFO: Locale in session: id  
+[2024-11-19 10:26:40] local.INFO: Locale in session: id  
+[2024-11-19 10:26:47] local.INFO: Locale in session: id  
+[2024-11-19 10:26:49] local.INFO: Locale in session: id  
+[2024-11-19 10:26:51] local.INFO: Locale in session: id  
+[2024-11-19 10:26:52] local.INFO: Locale in session: id  
+[2024-11-19 10:26:54] local.INFO: Locale in session: id  
+[2024-11-19 10:26:56] local.INFO: Locale in session: id  
+[2024-11-19 10:26:58] local.INFO: Locale in session: id  
+[2024-11-19 10:27:00] local.INFO: Locale in session: id  
+[2024-11-19 10:27:02] local.INFO: Locale in session: id  
+[2024-11-19 10:27:03] local.INFO: Locale in session: id  
+[2024-11-19 10:27:05] local.INFO: Locale in session: id  
+[2024-11-19 10:27:07] local.INFO: Locale in session: id  
+[2024-11-19 10:27:09] local.INFO: Locale in session: id  
+[2024-11-19 10:27:11] local.INFO: Locale in session: id  
+[2024-11-19 10:27:14] local.INFO: Locale in session: id  
+[2024-11-19 10:27:15] local.INFO: Locale in session: id  
+[2024-11-19 10:27:18] local.INFO: Locale in session: id  
+[2024-11-19 10:27:19] local.INFO: Locale in session: id  
+[2024-11-19 10:27:20] local.INFO: Locale in session: id  
+[2024-11-19 10:27:20] local.INFO: Locale in session: id  
+[2024-11-19 10:27:21] local.INFO: Locale in session: id  
+[2024-11-19 10:27:22] local.INFO: Locale in session: id  
+[2024-11-19 10:27:22] local.INFO: Locale in session: id  
+[2024-11-19 10:27:23] local.INFO: Locale in session: id  
+[2024-11-19 10:27:24] local.INFO: Locale in session: id  
+[2024-11-19 10:27:25] local.INFO: Locale in session: id  
+[2024-11-19 10:27:26] local.INFO: Locale in session: id  
+[2024-11-19 10:27:26] local.INFO: Locale in session: id  
+[2024-11-19 10:27:27] local.INFO: Locale in session: id  
+[2024-11-19 10:27:27] local.INFO: Locale in session: id  
+[2024-11-19 10:27:28] local.INFO: Locale in session: id  
+[2024-11-19 10:27:29] local.INFO: Locale in session: id  
+[2024-11-19 10:27:31] local.INFO: Locale in session: id  
+[2024-11-19 10:27:31] local.INFO: Locale in session: id  
+[2024-11-19 10:27:32] local.INFO: Locale in session: id  
+[2024-11-19 10:27:33] local.INFO: Locale in session: id  
+[2024-11-19 10:27:34] local.INFO: Locale in session: id  
+[2024-11-19 10:27:35] local.INFO: Locale in session: id  
+[2024-11-19 10:27:35] local.INFO: Locale in session: id  
+[2024-11-19 10:27:37] local.INFO: Locale in session: id  
+[2024-11-19 10:27:38] local.INFO: Locale in session: id  
+[2024-11-19 10:27:38] local.INFO: Locale in session: id  
+[2024-11-19 10:27:39] local.INFO: Locale in session: id  
+[2024-11-19 10:27:39] local.INFO: Locale in session: id  
+[2024-11-19 10:27:40] local.INFO: Locale in session: id  
+[2024-11-19 10:27:40] local.INFO: Locale in session: id  
+[2024-11-19 10:27:41] local.INFO: Locale in session: id  
+[2024-11-19 10:27:41] local.INFO: Locale in session: id  
+[2024-11-19 10:27:41] local.INFO: Locale in session: id  
+[2024-11-19 10:27:42] local.INFO: Locale in session: id  
+[2024-11-19 10:27:42] local.INFO: Locale in session: id  
+[2024-11-19 10:27:43] local.INFO: Locale in session: id  
+[2024-11-19 10:27:43] local.INFO: Locale in session: id  
+[2024-11-19 10:27:44] local.INFO: Locale in session: id  
+[2024-11-19 10:27:44] local.INFO: Locale in session: id  
+[2024-11-19 10:27:45] local.INFO: Locale in session: id  
+[2024-11-19 10:27:45] local.INFO: Locale in session: id  
+[2024-11-19 10:27:46] local.INFO: Locale in session: id  
+[2024-11-19 10:27:46] local.INFO: Locale in session: id  
+[2024-11-19 10:27:47] local.INFO: Locale in session: id  
+[2024-11-19 10:27:47] local.INFO: Locale in session: id  
+[2024-11-19 10:27:48] local.INFO: Locale in session: id  
+[2024-11-19 10:27:49] local.INFO: Locale in session: id  
+[2024-11-19 10:27:49] local.INFO: Locale in session: id  
+[2024-11-19 10:27:50] local.INFO: Locale in session: id  
+[2024-11-19 10:27:51] local.INFO: Locale in session: id  
+[2024-11-19 10:27:52] local.INFO: Locale in session: id  
+[2024-11-19 10:27:52] local.INFO: Locale in session: id  
+[2024-11-19 10:27:53] local.INFO: Locale in session: id  
+[2024-11-19 10:27:54] local.INFO: Locale in session: id  
+[2024-11-19 10:27:54] local.INFO: Locale in session: id  
+[2024-11-19 10:27:55] local.INFO: Locale in session: id  
+[2024-11-19 10:27:56] local.INFO: Locale in session: id  
+[2024-11-19 10:27:57] local.INFO: Locale in session: id  
+[2024-11-19 10:27:58] local.INFO: Locale in session: id  
+[2024-11-19 10:27:58] local.INFO: Locale in session: id  
+[2024-11-19 10:27:59] local.INFO: Locale in session: id  
+[2024-11-19 10:28:00] local.INFO: Locale in session: id  
+[2024-11-19 10:28:00] local.INFO: Locale in session: id  
+[2024-11-19 10:28:01] local.INFO: Locale in session: id  
+[2024-11-19 10:28:02] local.INFO: Locale in session: id  
+[2024-11-19 10:28:02] local.INFO: Locale in session: id  
+[2024-11-19 10:28:03] local.INFO: Locale in session: id  
+[2024-11-19 10:28:03] local.INFO: Locale in session: id  
+[2024-11-19 10:28:04] local.INFO: Locale in session: id  
+[2024-11-19 10:28:04] local.INFO: Locale in session: id  
+[2024-11-19 10:28:05] local.INFO: Locale in session: id  
+[2024-11-19 10:28:06] local.INFO: Locale in session: id  
+[2024-11-19 10:28:07] local.INFO: Locale in session: id  
+[2024-11-19 10:28:07] local.INFO: Locale in session: id  
+[2024-11-19 10:28:09] local.INFO: Locale in session: id  
+[2024-11-19 10:28:10] local.INFO: Locale in session: id  
+[2024-11-19 10:28:11] local.INFO: Locale in session: id  
+[2024-11-19 10:28:13] local.INFO: Locale in session: id  
+[2024-11-19 10:28:16] local.INFO: Locale in session: id  
+[2024-11-19 10:28:20] local.INFO: Locale in session: id  
+[2024-11-19 10:28:22] local.INFO: Locale in session: id  
+[2024-11-19 10:28:23] local.INFO: Locale in session: id  
+[2024-11-19 10:28:25] local.INFO: Locale in session: id  
+[2024-11-19 10:28:25] local.INFO: Locale in session: id  
+[2024-11-19 10:28:26] local.INFO: Locale in session: id  
+[2024-11-19 10:28:26] local.INFO: Locale in session: id  
+[2024-11-19 10:28:27] local.INFO: Locale in session: id  
+[2024-11-19 10:28:27] local.INFO: Locale in session: id  
+[2024-11-19 10:28:28] local.INFO: Locale in session: id  
+[2024-11-19 10:28:30] local.INFO: Locale in session: id  
+[2024-11-19 10:28:30] local.INFO: Locale in session: id  
+[2024-11-19 10:28:31] local.INFO: Locale in session: id  
+[2024-11-19 10:28:31] local.INFO: Locale in session: id  
+[2024-11-19 10:28:33] local.INFO: Locale in session: id  
+[2024-11-19 10:28:33] local.INFO: Locale in session: id  
+[2024-11-19 10:28:34] local.INFO: Locale in session: id  
+[2024-11-19 10:28:34] local.INFO: Locale in session: id  
+[2024-11-19 10:28:35] local.INFO: Locale in session: id  
+[2024-11-19 10:28:35] local.INFO: Locale in session: id  
+[2024-11-19 10:28:35] local.INFO: Locale in session: id  
+[2024-11-19 10:28:36] local.INFO: Locale in session: id  
+[2024-11-19 10:28:36] local.INFO: Locale in session: id  
+[2024-11-19 10:28:37] local.INFO: Locale in session: id  
+[2024-11-19 10:28:37] local.INFO: Locale in session: id  
+[2024-11-19 10:28:38] local.INFO: Locale in session: id  
+[2024-11-19 10:28:38] local.INFO: Locale in session: id  
+[2024-11-19 10:28:39] local.INFO: Locale in session: id  
+[2024-11-19 10:28:39] local.INFO: Locale in session: id  
+[2024-11-19 10:28:40] local.INFO: Locale in session: id  
+[2024-11-19 10:28:40] local.INFO: Locale in session: id  
+[2024-11-19 10:28:40] local.INFO: Locale in session: id  
+[2024-11-19 10:28:41] local.INFO: Locale in session: id  
+[2024-11-19 10:28:42] local.INFO: Locale in session: id  
+[2024-11-19 10:28:42] local.INFO: Locale in session: id  
+[2024-11-19 10:28:43] local.INFO: Locale in session: id  
+[2024-11-19 10:28:43] local.INFO: Locale in session: id  
+[2024-11-19 10:28:44] local.INFO: Locale in session: id  
+[2024-11-19 10:28:44] local.INFO: Locale in session: id  
+[2024-11-19 10:28:45] local.INFO: Locale in session: id  
+[2024-11-19 10:28:45] local.INFO: Locale in session: id  
+[2024-11-19 10:28:45] local.INFO: Locale in session: id  
+[2024-11-19 10:28:46] local.INFO: Locale in session: id  
+[2024-11-19 10:28:46] local.INFO: Locale in session: id  
+[2024-11-19 10:28:47] local.INFO: Locale in session: id  
+[2024-11-19 10:28:47] local.INFO: Locale in session: id  
+[2024-11-19 10:28:47] local.INFO: Locale in session: id  
+[2024-11-19 10:28:48] local.INFO: Locale in session: id  
+[2024-11-19 10:28:49] local.INFO: Locale in session: id  
+[2024-11-19 10:28:49] local.INFO: Locale in session: id  
+[2024-11-19 10:28:50] local.INFO: Locale in session: id  
+[2024-11-19 10:28:50] local.INFO: Locale in session: id  
+[2024-11-19 10:28:51] local.INFO: Locale in session: id  
+[2024-11-19 10:28:51] local.INFO: Locale in session: id  
+[2024-11-19 10:28:52] local.INFO: Locale in session: id  
+[2024-11-19 10:28:52] local.INFO: Locale in session: id  
+[2024-11-19 10:28:53] local.INFO: Locale in session: id  
+[2024-11-19 10:28:53] local.INFO: Locale in session: id  
+[2024-11-19 10:28:54] local.INFO: Locale in session: id  
+[2024-11-19 10:28:54] local.INFO: Locale in session: id  
+[2024-11-19 10:28:55] local.INFO: Locale in session: id  
+[2024-11-19 10:28:55] local.INFO: Locale in session: id  
+[2024-11-19 10:28:56] local.INFO: Locale in session: id  
+[2024-11-19 10:28:57] local.INFO: Locale in session: id  
+[2024-11-19 10:28:58] local.INFO: Locale in session: id  
+[2024-11-19 10:29:01] local.INFO: Locale in session: id  
+[2024-11-19 10:31:10] local.INFO: Locale in session: id  
+[2024-11-19 10:31:11] local.INFO: Locale in session: id  
+[2024-11-19 10:31:13] local.INFO: Locale in session: id  
+[2024-11-19 10:31:14] local.INFO: Locale in session: id  
+[2024-11-19 10:31:15] local.INFO: Locale in session: id  
+[2024-11-19 10:31:16] local.INFO: Locale in session: id  
+[2024-11-19 10:31:18] local.INFO: Locale in session: id  
+[2024-11-19 10:31:19] local.INFO: Locale in session: id  
+[2024-11-19 10:31:21] local.INFO: Locale in session: id  
+[2024-11-19 10:31:23] local.INFO: Locale in session: id  
+[2024-11-19 10:31:24] local.INFO: Locale in session: id  
+[2024-11-19 10:31:25] local.INFO: Locale in session: id  
+[2024-11-19 10:34:19] local.INFO: Locale in session: id  
+[2024-11-19 10:34:20] local.INFO: Locale in session: id  
+[2024-11-19 10:34:21] local.INFO: Locale in session: id  
+[2024-11-19 10:34:22] local.INFO: Locale in session: id  
+[2024-11-19 10:34:23] local.INFO: Locale in session: id  
+[2024-11-19 10:34:46] local.INFO: Locale in session: id  
+[2024-11-19 10:34:47] local.INFO: Locale in session: id  
+[2024-11-19 10:35:00] local.INFO: Locale in session: id  
+[2024-11-19 10:35:02] local.INFO: Locale in session: id  
+[2024-11-19 10:35:10] local.INFO: Locale in session: id  
+[2024-11-19 10:35:15] local.INFO: Locale in session: id  
+[2024-11-19 10:35:26] local.INFO: Locale in session: id  
+[2024-11-19 10:35:27] local.INFO: Locale in session: id  
+[2024-11-19 10:35:42] local.INFO: Locale in session: id  
+[2024-11-19 10:35:46] local.INFO: Locale in session: id  
+[2024-11-19 10:35:49] local.INFO: Locale in session: id  
+[2024-11-19 10:35:50] local.INFO: Locale in session: id  
+[2024-11-19 10:35:50] local.INFO: Locale in session: id  
+[2024-11-19 10:38:14] local.INFO: Locale in session: id  
+[2024-11-19 10:40:32] local.INFO: Locale in session: id  
+[2024-11-19 10:40:32] local.INFO: Locale in session: id  
+[2024-11-19 10:40:34] local.INFO: Locale in session: id  
+[2024-11-19 10:40:38] local.INFO: Locale in session: id  
+[2024-11-19 10:40:47] local.INFO: Locale in session: id  
+[2024-11-19 10:40:49] local.INFO: Locale in session: id  
+[2024-11-19 10:40:49] local.INFO: Locale in session: id  
+[2024-11-19 10:40:50] local.INFO: Locale in session: id  
+[2024-11-19 10:40:51] local.INFO: Locale in session: id  
+[2024-11-19 10:40:51] local.INFO: Locale in session: id  
+[2024-11-19 10:40:52] local.INFO: Locale in session: id  
+[2024-11-19 10:40:52] local.INFO: Locale in session: id  
+[2024-11-19 10:40:53] local.INFO: Locale in session: id  
+[2024-11-19 10:40:53] local.INFO: Locale in session: id  
+[2024-11-19 10:40:54] local.INFO: Locale in session: id  
+[2024-11-19 10:40:54] local.INFO: Locale in session: id  
+[2024-11-19 10:40:55] local.INFO: Locale in session: id  
+[2024-11-19 10:40:58] local.INFO: Locale in session: id  
+[2024-11-19 10:41:01] local.INFO: Locale in session: id  
+[2024-11-19 10:41:02] local.INFO: Locale in session: id  
+[2024-11-19 10:41:06] local.INFO: Locale in session: id  
+[2024-11-19 10:44:10] local.ERROR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'gambar' in 'field list' (Connection: mysql, SQL: insert into `produks` (`nama`, `bahan`, `gambar`, `deskripsi`, `kategori_id`, `updated_at`, `created_at`) values (Produk 1, Bahan 1, gambar1.jpg, Deskripsi produk 1, 1, 2024-11-19 10:44:10, 2024-11-19 10:44:10)) {"exception":"[object] (Illuminate\\Database\\QueryException(code: 42S22): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'gambar' in 'field list' (Connection: mysql, SQL: insert into `produks` (`nama`, `bahan`, `gambar`, `deskripsi`, `kategori_id`, `updated_at`, `created_at`) values (Produk 1, Bahan 1, gambar1.jpg, Deskripsi produk 1, 1, 2024-11-19 10:44:10, 2024-11-19 10:44:10)) at C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php:825)
+[stacktrace]
+#0 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php(779): Illuminate\\Database\\Connection->runQueryCallback('insert into `pr...', Array, Object(Closure))
+#1 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\MySqlConnection.php(42): Illuminate\\Database\\Connection->run('insert into `pr...', Array, Object(Closure))
+#2 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Query\\Processors\\MySqlProcessor.php(35): Illuminate\\Database\\MySqlConnection->insert('insert into `pr...', Array, 'id')
+#3 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Query\\Builder.php(3796): Illuminate\\Database\\Query\\Processors\\MySqlProcessor->processInsertGetId(Object(Illuminate\\Database\\Query\\Builder), 'insert into `pr...', Array, 'id')
+#4 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Builder.php(2038): Illuminate\\Database\\Query\\Builder->insertGetId(Array, 'id')
+#5 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Model.php(1358): Illuminate\\Database\\Eloquent\\Builder->__call('insertGetId', Array)
+#6 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Model.php(1323): Illuminate\\Database\\Eloquent\\Model->insertAndSetId(Object(Illuminate\\Database\\Eloquent\\Builder), Array)
+#7 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Model.php(1162): Illuminate\\Database\\Eloquent\\Model->performInsert(Object(Illuminate\\Database\\Eloquent\\Builder))
+#8 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Builder.php(1079): Illuminate\\Database\\Eloquent\\Model->save()
+#9 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\helpers.php(380): Illuminate\\Database\\Eloquent\\Builder->Illuminate\\Database\\Eloquent\\{closure}(Object(App\\Models\\Produk))
+#10 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Builder.php(1078): tap(Object(App\\Models\\Produk), Object(Closure))
+#11 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\Traits\\ForwardsCalls.php(23): Illuminate\\Database\\Eloquent\\Builder->create(Array)
+#12 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Model.php(2367): Illuminate\\Database\\Eloquent\\Model->forwardCallTo(Object(Illuminate\\Database\\Eloquent\\Builder), 'create', Array)
+#13 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Model.php(2379): Illuminate\\Database\\Eloquent\\Model->__call('create', Array)
+#14 C:\\laragon\\www\\bccrafts\\database\\seeders\\produkSeeder.php(16): Illuminate\\Database\\Eloquent\\Model::__callStatic('create', Array)
+#15 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(36): Database\\Seeders\\produkSeeder->run()
+#16 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Util.php(43): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#17 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(95): Illuminate\\Container\\Util::unwrapIfClosure(Object(Closure))
+#18 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(35): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#19 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(690): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#20 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Seeder.php(184): Illuminate\\Container\\Container->call(Array, Array)
+#21 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Seeder.php(193): Illuminate\\Database\\Seeder->Illuminate\\Database\\{closure}()
+#22 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Seeder.php(61): Illuminate\\Database\\Seeder->__invoke(Array)
+#23 C:\\laragon\\www\\bccrafts\\database\\seeders\\DatabaseSeeder.php(31): Illuminate\\Database\\Seeder->call('Database\\\\Seeder...')
+#24 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(36): Database\\Seeders\\DatabaseSeeder->run()
+#25 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Util.php(43): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#26 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(95): Illuminate\\Container\\Util::unwrapIfClosure(Object(Closure))
+#27 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(35): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#28 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(690): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#29 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Seeder.php(184): Illuminate\\Container\\Container->call(Array, Array)
+#30 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Seeder.php(193): Illuminate\\Database\\Seeder->Illuminate\\Database\\{closure}()
+#31 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Console\\Seeds\\SeedCommand.php(70): Illuminate\\Database\\Seeder->__invoke()
+#32 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Concerns\\GuardsAttributes.php(155): Illuminate\\Database\\Console\\Seeds\\SeedCommand->Illuminate\\Database\\Console\\Seeds\\{closure}()
+#33 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Console\\Seeds\\SeedCommand.php(69): Illuminate\\Database\\Eloquent\\Model::unguarded(Object(Closure))
+#34 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(36): Illuminate\\Database\\Console\\Seeds\\SeedCommand->handle()
+#35 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Util.php(43): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#36 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(95): Illuminate\\Container\\Util::unwrapIfClosure(Object(Closure))
+#37 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(35): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#38 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(690): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#39 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Command.php(213): Illuminate\\Container\\Container->call(Array)
+#40 C:\\laragon\\www\\bccrafts\\vendor\\symfony\\console\\Command\\Command.php(279): Illuminate\\Console\\Command->execute(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Illuminate\\Console\\OutputStyle))
+#41 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Command.php(182): Symfony\\Component\\Console\\Command\\Command->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Illuminate\\Console\\OutputStyle))
+#42 C:\\laragon\\www\\bccrafts\\vendor\\symfony\\console\\Application.php(1047): Illuminate\\Console\\Command->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#43 C:\\laragon\\www\\bccrafts\\vendor\\symfony\\console\\Application.php(316): Symfony\\Component\\Console\\Application->doRunCommand(Object(Illuminate\\Database\\Console\\Seeds\\SeedCommand), Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#44 C:\\laragon\\www\\bccrafts\\vendor\\symfony\\console\\Application.php(167): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#45 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(197): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#46 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(1203): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#47 C:\\laragon\\www\\bccrafts\\artisan(13): Illuminate\\Foundation\\Application->handleCommand(Object(Symfony\\Component\\Console\\Input\\ArgvInput))
+#48 {main}
+
+[previous exception] [object] (PDOException(code: 42S22): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'gambar' in 'field list' at C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\MySqlConnection.php:47)
+[stacktrace]
+#0 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\MySqlConnection.php(47): PDO->prepare('insert into `pr...')
+#1 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php(812): Illuminate\\Database\\MySqlConnection->Illuminate\\Database\\{closure}('insert into `pr...', Array)
+#2 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php(779): Illuminate\\Database\\Connection->runQueryCallback('insert into `pr...', Array, Object(Closure))
+#3 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\MySqlConnection.php(42): Illuminate\\Database\\Connection->run('insert into `pr...', Array, Object(Closure))
+#4 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Query\\Processors\\MySqlProcessor.php(35): Illuminate\\Database\\MySqlConnection->insert('insert into `pr...', Array, 'id')
+#5 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Query\\Builder.php(3796): Illuminate\\Database\\Query\\Processors\\MySqlProcessor->processInsertGetId(Object(Illuminate\\Database\\Query\\Builder), 'insert into `pr...', Array, 'id')
+#6 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Builder.php(2038): Illuminate\\Database\\Query\\Builder->insertGetId(Array, 'id')
+#7 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Model.php(1358): Illuminate\\Database\\Eloquent\\Builder->__call('insertGetId', Array)
+#8 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Model.php(1323): Illuminate\\Database\\Eloquent\\Model->insertAndSetId(Object(Illuminate\\Database\\Eloquent\\Builder), Array)
+#9 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Model.php(1162): Illuminate\\Database\\Eloquent\\Model->performInsert(Object(Illuminate\\Database\\Eloquent\\Builder))
+#10 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Builder.php(1079): Illuminate\\Database\\Eloquent\\Model->save()
+#11 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\helpers.php(380): Illuminate\\Database\\Eloquent\\Builder->Illuminate\\Database\\Eloquent\\{closure}(Object(App\\Models\\Produk))
+#12 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Builder.php(1078): tap(Object(App\\Models\\Produk), Object(Closure))
+#13 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\Traits\\ForwardsCalls.php(23): Illuminate\\Database\\Eloquent\\Builder->create(Array)
+#14 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Model.php(2367): Illuminate\\Database\\Eloquent\\Model->forwardCallTo(Object(Illuminate\\Database\\Eloquent\\Builder), 'create', Array)
+#15 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Model.php(2379): Illuminate\\Database\\Eloquent\\Model->__call('create', Array)
+#16 C:\\laragon\\www\\bccrafts\\database\\seeders\\produkSeeder.php(16): Illuminate\\Database\\Eloquent\\Model::__callStatic('create', Array)
+#17 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(36): Database\\Seeders\\produkSeeder->run()
+#18 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Util.php(43): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#19 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(95): Illuminate\\Container\\Util::unwrapIfClosure(Object(Closure))
+#20 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(35): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#21 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(690): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#22 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Seeder.php(184): Illuminate\\Container\\Container->call(Array, Array)
+#23 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Seeder.php(193): Illuminate\\Database\\Seeder->Illuminate\\Database\\{closure}()
+#24 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Seeder.php(61): Illuminate\\Database\\Seeder->__invoke(Array)
+#25 C:\\laragon\\www\\bccrafts\\database\\seeders\\DatabaseSeeder.php(31): Illuminate\\Database\\Seeder->call('Database\\\\Seeder...')
+#26 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(36): Database\\Seeders\\DatabaseSeeder->run()
+#27 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Util.php(43): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#28 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(95): Illuminate\\Container\\Util::unwrapIfClosure(Object(Closure))
+#29 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(35): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#30 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(690): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#31 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Seeder.php(184): Illuminate\\Container\\Container->call(Array, Array)
+#32 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Seeder.php(193): Illuminate\\Database\\Seeder->Illuminate\\Database\\{closure}()
+#33 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Console\\Seeds\\SeedCommand.php(70): Illuminate\\Database\\Seeder->__invoke()
+#34 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Concerns\\GuardsAttributes.php(155): Illuminate\\Database\\Console\\Seeds\\SeedCommand->Illuminate\\Database\\Console\\Seeds\\{closure}()
+#35 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Console\\Seeds\\SeedCommand.php(69): Illuminate\\Database\\Eloquent\\Model::unguarded(Object(Closure))
+#36 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(36): Illuminate\\Database\\Console\\Seeds\\SeedCommand->handle()
+#37 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Util.php(43): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#38 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(95): Illuminate\\Container\\Util::unwrapIfClosure(Object(Closure))
+#39 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(35): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#40 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(690): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#41 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Command.php(213): Illuminate\\Container\\Container->call(Array)
+#42 C:\\laragon\\www\\bccrafts\\vendor\\symfony\\console\\Command\\Command.php(279): Illuminate\\Console\\Command->execute(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Illuminate\\Console\\OutputStyle))
+#43 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Command.php(182): Symfony\\Component\\Console\\Command\\Command->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Illuminate\\Console\\OutputStyle))
+#44 C:\\laragon\\www\\bccrafts\\vendor\\symfony\\console\\Application.php(1047): Illuminate\\Console\\Command->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#45 C:\\laragon\\www\\bccrafts\\vendor\\symfony\\console\\Application.php(316): Symfony\\Component\\Console\\Application->doRunCommand(Object(Illuminate\\Database\\Console\\Seeds\\SeedCommand), Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#46 C:\\laragon\\www\\bccrafts\\vendor\\symfony\\console\\Application.php(167): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#47 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(197): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#48 C:\\laragon\\www\\bccrafts\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(1203): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#49 C:\\laragon\\www\\bccrafts\\artisan(13): Illuminate\\Foundation\\Application->handleCommand(Object(Symfony\\Component\\Console\\Input\\ArgvInput))
+#50 {main}
+"} 
